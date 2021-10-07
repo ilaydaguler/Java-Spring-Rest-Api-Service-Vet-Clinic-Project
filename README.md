@@ -1,1 +1,3 @@
-# Java-Spring-Rest-Api-Service-Vet-Clinic-Project
+# Java Spring RESTApi Service Vet Clinic Project
+
+Veterinary Clinic RestApi project includes services of Spring MVC Vet Klinik project. In this project, the services of adding, deleting, updating, and listing processes in the Vet Klinik project are provided. At the same time, the cities table was cached using Redis and their lists were created. Elasticsearch is used for the search section in the customer section. Additionally, Swagger was used for the documentation of this project. With logging, every transaction made by which users can be recorded in the database and listed. With the password change service, users can change their passwords. You can check the services over Swagger or Postman to see that they are running successfully. Also, Spring Security is used for services as in the Spring MVC project. Do not forget to log in according to the roles while auditing.
